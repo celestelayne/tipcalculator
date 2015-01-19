@@ -9,6 +9,6 @@ Completed user stories:
 
 Optional: Added and app icon image
 
-https://cloud.githubusercontent.com/assets/5299069/5795604/5eb9ff42-9f48-11e4-86e0-45b4acfc9711.gif
+![](https://cloud.githubusercontent.com/assets/5299069/5795604/5eb9ff42-9f48-11e4-86e0-45b4acfc9711.gif)
 
 GIF walkthrough using LiceCap

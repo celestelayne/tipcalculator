@@ -9,8 +9,6 @@ Completed user stories:
 
 Optional: Added and app icon image
 
-![alt tag](file:///Users/admin/Documents/Web%20Design/Swift/tippr/tippr.gif)
-
 
 
 GIF walkthrough using LiceCap

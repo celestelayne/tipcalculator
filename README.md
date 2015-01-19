@@ -9,7 +9,7 @@ Completed user stories:
 
 Optional: Added and app icon image
 
-file:///Users/admin/Documents/Web%20Design/Swift/tippr/tippr.gif
+![alt tag](file:///Users/admin/Documents/Web%20Design/Swift/tippr/tippr.gif)
 
 
 
